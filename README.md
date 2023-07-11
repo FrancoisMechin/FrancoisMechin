@@ -6,9 +6,9 @@ Full-Stack Developer
 
 I have been passionate about computer science and the web for as long as I can remember. In the beginning of 2023, I earned my professional title as a Web/Mobile Developer. This achievement has propelled me into the world of entrepreneurship, where my thirst for knowledge and desire for tangible results drive me forward.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="20" height="20" />
 
-* 🇫🇷  I'm based in France
+
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="20" height="20" />  I'm based in France
 * ✉️  You can contact me at [f.mechin@protonmail.com](mailto:f.mechin@protonmail.com)
 * 👨🏻‍💻  I'm learning React, NextJS, Prisma
 
