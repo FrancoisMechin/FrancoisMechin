@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francois Mechin
+Hello ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Francois Mechin
 =======================================================================================================================================
 
-Full-Stack Web Developer
+Full-Stack Developer
 ------------------------
 
-Passionné de l'informatique et du web depuis toujours. J'ai obtenu mon titre professionnel de Développeur web/web Mobile avec anglais renforcé en ce début d'année 2023. Grâce à cela je suis devenu un auto-entrepreneur ayant soif de connaissances et de résultats.
+I have been passionate about computer science and the web for as long as I can remember. In the beginning of 2023, I earned my professional title as a Web/Mobile Developer. This achievement has propelled me into the world of entrepreneurship, where my thirst for knowledge and desire for tangible results drive me forward.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [f.mechin@protonmail.com](mailto:f.mechin@protonmail.com)
@@ -12,8 +12,7 @@ Passionné de l'informatique et du web depuis toujours. J'ai obtenu mon titre pr
 
 ### Skills
 
-
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -37,6 +36,8 @@ Passionné de l'informatique et du web depuis toujours. J'ai obtenu mon titre pr
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/FrancoisMechin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoisMechin&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### My deployed projects
+
+
