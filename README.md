@@ -8,7 +8,7 @@ I have been passionate about computer science and the web for as long as I can r
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="15" height="15" />   I'm based in France
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="20" height="15" />   I'm based in France
 <br />
 ✉️ You can contact me at [f.mechin@protonmail.com](mailto:f.mechin@protonmail.com)
 <br />
