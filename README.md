@@ -9,8 +9,9 @@ I have been passionate about computer science and the web for as long as I can r
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="15" height="15" />  I'm based in France
-<b />
+<br />
 ✉️  You can contact me at [f.mechin@protonmail.com](mailto:f.mechin@protonmail.com)
+<br />
 👨🏻‍💻  I'm learning React, NextJS, Prisma
 
 ### Skills
@@ -35,7 +36,7 @@ I have been passionate about computer science and the web for as long as I can r
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
