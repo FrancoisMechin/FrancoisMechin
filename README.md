@@ -12,7 +12,7 @@ I have been passionate about computer science and the web for as long as I can r
 <br />
 ✉️  You can contact me at [f.mechin@protonmail.com](mailto:f.mechin@protonmail.com)
 <br />
-👨🏻‍💻  I'm learning React, NextJS, Prisma
+👨🏻‍💻  I'm actually learning React, NextJS, Prisma..
 
 ### Skills
 
