@@ -16,16 +16,12 @@ I have been passionate about computer science and the web for as long as I can r
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,mysql&theme=light&perline=5)](https://skillicons.dev)
-
-<p align="center">
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,git,mysql&theme=light&perline=5)]
 
 
 ### Socials
 
-<p align="center"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
