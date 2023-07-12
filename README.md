@@ -1,14 +1,10 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Francois Mechin
-=======================================================================================================================================
+# Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Francois Mechin
 
-Full-Stack Developer
-------------------------
+## Full-Stack Developer
 
 I have been passionate about computer science and the web for as long as I can remember. In the beginning of 2023, I earned my professional title as a Web/Mobile Developer. This achievement has propelled me into the world of entrepreneurship, where my thirst for knowledge and desire for tangible results drive me forward.
 
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="20" height="15" />   I'm based in France
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="20" height="15" />  I'm based in France
 <br />
 ✉️  You can contact me at [f.mechin@protonmail.com](mailto:f.mechin@protonmail.com)
 <br />
@@ -22,7 +18,6 @@ I have been passionate about computer science and the web for as long as I can r
   </a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a></p>
@@ -33,4 +28,6 @@ I have been passionate about computer science and the web for as long as I can r
 
 ### My projects
 
-
+<a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="400px">
+</a>
