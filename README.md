@@ -21,11 +21,11 @@ I have been passionate about computer science and the web for as long as I can r
 ### My projects
 
 <a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
-  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="408px" style="border: white 1px solid">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="408px" style="border: white 1px solid;">
 </a>
 
 <a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
-  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/webcse.png?raw=true" name="webcse" width="408px" style="border: white 1px solid">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/webcse.png?raw=true" name="webcse" width="408px" style="border: white 1px solid;">
 </a>
 
 ### Badges
