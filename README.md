@@ -26,9 +26,7 @@ I have been passionate about computer science and the web for as long as I can r
   <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="415px" style="border: white 1px solid;">
 </a>
 
-<a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
-  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/webcse.png?raw=true" name="webcse" width="415px" style="border: white 1px solid;">
-</a>
+<img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/webcse.png?raw=true" name="webcse" width="415px" style="border: white 1px solid;">
 
 ### 🪙 Badges
 
