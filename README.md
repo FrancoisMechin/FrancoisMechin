@@ -16,7 +16,7 @@ I have been passionate about computer science and the web for as long as I can r
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,mysql&theme=light&perline=4)](https://skillicons.dev)
 
 <p align="center">
 
