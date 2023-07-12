@@ -1,5 +1,7 @@
 ### ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Full-Stack Developer
 
+<hr />
+
 I have been passionate about computer science and the web for as long as I can remember. In the beginning of 2023, I earned my professional title as a Web/Mobile Developer. This achievement has propelled me into the world of entrepreneurship, where my thirst for knowledge and desire for tangible results drive me forward.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="20" height="15" />  I'm based in France
@@ -17,8 +19,6 @@ I have been passionate about computer science and the web for as long as I can r
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,git,mysql&theme=light&perline=6" />
   </a>
 </p>
-
-<hr />
 
 ### 📥 My projects
 
