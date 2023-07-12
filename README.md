@@ -18,16 +18,22 @@ I have been passionate about computer science and the web for as long as I can r
   </a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a></p>
+
+### My projects
+
+<a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="530px">
+</a>
+
+<a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/homepage.jpg?raw=true" name="netflix-clone" width="530px">
+</a>
 
 ### Badges
 
 <a href="http://www.github.com/FrancoisMechin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoisMechin&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### My projects
+### Socials
 
-<a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
-  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="400px">
-</a>
+<p align="left"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a></p>
