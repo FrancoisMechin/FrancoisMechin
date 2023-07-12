@@ -18,7 +18,7 @@ I have been passionate about computer science and the web for as long as I can r
 
 <p align="left">
   <a href="https://www.github.com/FrancoisMechin">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,git,mysql&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,git,mysql&theme=light&perline=6" width="32" height="32" />
   </a>
 </p>
 
