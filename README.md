@@ -16,9 +16,9 @@ I have been passionate about computer science and the web for as long as I can r
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a href="https://www.github.com/FrancoisMechin">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,git,mysql&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,php,tailwind,figma,git,mysql&theme=light&perline=6" />
   </a>
 </p>
 
