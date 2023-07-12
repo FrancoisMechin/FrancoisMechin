@@ -1,6 +1,4 @@
-# Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Francois Mechin
-
-## Full-Stack Developer
+### ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Full-Stack Developer
 
 I have been passionate about computer science and the web for as long as I can remember. In the beginning of 2023, I earned my professional title as a Web/Mobile Developer. This achievement has propelled me into the world of entrepreneurship, where my thirst for knowledge and desire for tangible results drive me forward.
 
@@ -10,7 +8,9 @@ I have been passionate about computer science and the web for as long as I can r
 <br />
 👨🏻‍💻  I'm actually learning React, NextJS, Prisma..
 
-### Skills
+<hr />
+
+### 🧰 Languages and Tools
 
 <p align="left">
   <a href="https://www.github.com/FrancoisMechin">
@@ -18,20 +18,22 @@ I have been passionate about computer science and the web for as long as I can r
   </a>
 </p>
 
-### My projects
+<hr />
+
+### 📥 My projects
 
 <a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
-  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="408px" style="border: white 1px solid;">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/netflixclone.png?raw=true" name="netflix-clone" width="415px" style="border: white 1px solid;">
 </a>
 
 <a href="https://nextflix-francoismechin.vercel.app/" target="_blank">
-  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/webcse.png?raw=true" name="webcse" width="408px" style="border: white 1px solid;">
+  <img src="https://github.com/FrancoisMechin/FrancoisMechin/blob/main/resources/projects/webcse.png?raw=true" name="webcse" width="415px" style="border: white 1px solid;">
 </a>
 
-### Badges
+### 🪙 Badges
 
 <a href="http://www.github.com/FrancoisMechin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoisMechin&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Socials
+### #️⃣ Socials
 
 <p align="left"> <a href="https://www.github.com/FrancoisMechin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/francois-mechin/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a></p>
